@@ -121,6 +121,9 @@ li {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
 	h1 {
-		font: 700 24px/28px SF Compact Display, Helvetica Neue, sans-serif;
+		font: 700 32px/36px SF Compact Display, Helvetica Neue, sans-serif;
+	}
+	h2 {
+		font: 300 20px/24px SF Compact Display, Helvetica Neue, sans-serif;
 	}
 }
