@@ -96,14 +96,15 @@ ul {
 
 li {
 	display: inline-block;
-	width: 88px;
+/*	width: 88px;*/
+	padding: 0 15px;
 	height: 64px;
 	position: relative;
 	top: 50%;
 	margin-top: -60px;
 }
 
-@media (max-width: 500px), (max-height: 500px) {
+@media (max-width: 320px), (max-height: 500px) {
 
 	a span {
 		display: none;
