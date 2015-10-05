@@ -83,17 +83,12 @@ li {
 }
 
 @media (max-width: 320px), (max-height: 500px) {
-
-	a span {
-		display: none;
-		padding: 0;
-	}
 	
-	li {
-		display: block;
-		/*float: left;*/
-		/*width: 20%;*/
-	}
+/*	li {
+		display: inline-block;
+		float: left;
+		width: 20%;
+	}*/
 	
 	ul {
 		padding: 0;
